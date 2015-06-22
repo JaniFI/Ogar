@@ -21,6 +21,7 @@ Playerbots are currently basic and for testing purposes. To use them, change "se
 
 ## Obtaining and Using
 If you are on Windows, just launch Ogar_GUI.exe
+
 Currently, Ogar listens on the following addresses and ports:
 * *:80 - for the master server
 * *:443 - for the game server
