@@ -1,5 +1,6 @@
-# Ogar
+# Ogar with GUI
 An open source Agar.io server implementation, written in Node.js.
+Now with GUI to make server setup easier.
 
 ## Project Status
 The project is nearly complete. Here's a rough list of what's been done and what needs to be done:
