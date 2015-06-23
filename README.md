@@ -6,7 +6,7 @@ Now with GUI to make server setup easier.
 
 ![](http://i.gyazo.com/6e40fa3321951c6668e857127c5f6dcd.png?raw=true)
 
-![](http://i.gyazo.com/9e025ca76beaa00e5cd258d586f1d282.png?raw=true)
+![](http://i.gyazo.com/0668f37938d9ba47872180fda52e51ad.png?raw=true)
 
 ## Project Status
 The project is nearly complete. Here's a rough list of what's been done and what needs to be done:
