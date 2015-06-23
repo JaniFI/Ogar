@@ -2,6 +2,12 @@
 An open source Agar.io server implementation, written in Node.js.
 Now with GUI to make server setup easier.
 
+## Screenshots
+
+![](http://i.gyazo.com/6e40fa3321951c6668e857127c5f6dcd.png?raw=true)
+
+![](http://i.gyazo.com/9e025ca76beaa00e5cd258d586f1d282.png?raw=true)
+
 ## Project Status
 The project is nearly complete. Here's a rough list of what's been done and what needs to be done:
 
