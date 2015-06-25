@@ -8,20 +8,6 @@ Now with GUI to make server setup easier.
 
 ![](http://i.gyazo.com/0668f37938d9ba47872180fda52e51ad.png?raw=true)
 
-## Project Status
-The project is nearly complete. Here's a rough list of what's been done and what needs to be done:
-
-- [x] Master server basic implementation
-- [x] Game server basic implementation (clients can connect)
-- [x] Single-cell movement
-- [x] Randomly generated cells and viruses
-- [x] Ejecting mass
-- [x] Splitting
-- [x] Multi-cell player movement
-- [x] Cells eating other cells
-- [x] Leaderboard
-- [x] Team mode
-- [x] Spectate mode
 
 Playerbots are currently basic and for testing purposes. To use them, change "serverBots" to a value higher than zero (I like to use 50).
 
